@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled 
+ed50e30124781300a2af3327d9b853818a2aa6f0 refs/remotes/origin/development
+e9e0bb0814c879198e9175c7161add893a8e6c04 refs/remotes/origin/master
+52f3f76da16f1d023386761c1e0ffbe869674580 refs/tags/v1.0OpenCV3.2
+15c2c749b1fd8f5851e19414ecbbe6f7847ec6c5 refs/tags/v2.0OpenCV3.4
+5627710a238a97e6278066d1c8fecdbcc9219784 refs/tags/v2.1OpenCV3.4
